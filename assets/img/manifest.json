@@ -1,0 +1,1692 @@
+{
+ "version": "cardok-v2",
+ "generated_note": "class=generated ⇒ cartel « Illustration »; class=schema ⇒ cartel « Schéma de principe ». Neither is ever used as proof (/projets/, next to a place, a testimonial or a client name).",
+ "counts": {
+  "images": 135,
+  "media": 15,
+  "original": 104,
+  "enhanced": 28,
+  "generated": 9,
+  "schema": 9
+ },
+ "images": [
+  {
+   "id": "hero-m01",
+   "class": "original",
+   "cartel": "",
+   "source": "M01-hero-plateforme/m01-poster-1920x1080.avif — M01 poster",
+   "usedOn": [
+    "/",
+    "/lp/"
+   ]
+  },
+  {
+   "id": "hero-m01-mobile",
+   "class": "enhanced",
+   "cartel": "",
+   "source": "m01-mobile-poster-1440x1800.png — M01 source vidéo t=38.2 s, recadrage 4:5 sur plateforme + voiture, plaque floutée, agrandi 1440×1800 (lanczos + netteté)",
+   "usedOn": [
+    "/",
+    "/lp/"
+   ]
+  },
+  {
+   "id": "espace-plateau-ping-pong",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__Carnevali-3-scaled-1.webp — #41 Valpuiseaux",
+   "usedOn": [
+    "/",
+    "/_system/",
+    "/lp/"
+   ]
+  },
+  {
+   "id": "collection-troinex",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__DSC_9246_s-1.webp — #43 Troinex (plates + third-party lettering blurred)",
+   "usedOn": [
+    "/",
+    "/lp/",
+    "/solutions/carsafe/"
+   ]
+  },
+  {
+   "id": "villa-valeur-4x5",
+   "class": "enhanced",
+   "cartel": "",
+   "source": "e12-villa-valeur-restauration.png — e12 (enhanced, no plate)",
+   "usedOn": [
+    "/",
+    "/lp/"
+   ]
+  },
+  {
+   "id": "gamme-acceder-356",
+   "class": "enhanced",
+   "cartel": "",
+   "source": "e09-perroy-356-restauration.png — e09 Perroy 356 (enhanced)",
+   "usedOn": [
+    "/",
+    "/_system/",
+    "/lp/",
+    "/solutions/",
+    "/solutions/turntable/"
+   ]
+  },
+  {
+   "id": "gamme-stocker-carsafe",
+   "class": "original",
+   "cartel": "",
+   "source": "e01-carsafe-jardin-4x5.png — e01 #167 CarSafe 6000 4:5 (original crop)",
+   "usedOn": [
+    "/",
+    "/_system/",
+    "/lp/",
+    "/solutions/",
+    "/solutions/carsafe/"
+   ]
+  },
+  {
+   "id": "gamme-deplacer-turntable",
+   "class": "enhanced",
+   "cartel": "",
+   "source": "e07-garage-turntable-neutre.png — e07 (enhanced, brand emblems removed)",
+   "usedOn": [
+    "/",
+    "/lp/",
+    "/solutions/"
+   ]
+  },
+  {
+   "id": "gamme-sur-mesure-vitre",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__Carnevali-2-scaled-1.webp — #40 Valpuiseaux glass lift (plate blurred)",
+   "usedOn": [
+    "/",
+    "/_system/",
+    "/lp/",
+    "/solutions/",
+    "/solutions/projets-speciaux/"
+   ]
+  },
+  {
+   "id": "projet-perroy",
+   "class": "original",
+   "cartel": "",
+   "source": "e02-perroy-carlift-16x9.png — e02 Perroy (original crop, plate blurred)",
+   "usedOn": [
+    "/",
+    "/_system/",
+    "/projets/",
+    "/projets/perroy/"
+   ]
+  },
+  {
+   "id": "projet-mont-sur-rolle",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__THINK-UTOPIA-CARDOK-LOW-39.webp — #61 Mont-sur-Rolle",
+   "usedOn": [
+    "/",
+    "/projets/",
+    "/projets/mont-sur-rolle/",
+    "/solutions/"
+   ]
+  },
+  {
+   "id": "projet-amstelveen",
+   "class": "original",
+   "cartel": "",
+   "source": "2025-03__Cardok-Amstelveen_HR-03.jpg — #189 Amstelveen HR-03",
+   "usedOn": [
+    "/",
+    "/_system/",
+    "/blog/",
+    "/blog/bien-plus-qu-un-garage-un-ecrin-pour-vos-voitures/",
+    "/projets/",
+    "/projets/amstelveen/"
+   ]
+  },
+  {
+   "id": "projet-gstaad",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__20210512_152530-1.webp — #6 Gstaad",
+   "usedOn": [
+    "/",
+    "/projets/",
+    "/projets/gstaad/"
+   ]
+  },
+  {
+   "id": "projet-buchillon",
+   "class": "enhanced",
+   "cartel": "",
+   "source": "e06-crepuscule-buchillon.png — e06 Buchillon dusk (enhanced)",
+   "usedOn": [
+    "/",
+    "/_system/",
+    "/blog/reinventez-le-luxe-avec-l-ultime-carlift/",
+    "/projets/",
+    "/projets/buchillon/"
+   ]
+  },
+  {
+   "id": "projet-stavanger",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__Norway-3-1.webp — #55 Stavanger",
+   "usedOn": [
+    "/",
+    "/projets/",
+    "/projets/stavanger/"
+   ]
+  },
+  {
+   "id": "blog-valeur",
+   "class": "enhanced",
+   "cartel": "",
+   "source": "e12-villa-valeur-restauration.png — e12 (enhanced) — P13 cover",
+   "usedOn": [
+    "/",
+    "/blog/",
+    "/blog/un-cardok-peut-il-augmenter-la-valeur-de-votre-propriete/"
+   ]
+  },
+  {
+   "id": "blog-neige",
+   "class": "generated",
+   "cartel": "Illustration",
+   "source": "generated (prompt archived in media-v2/MANIFEST-images-*.md, g03 (generated) — P16 cover)",
+   "usedOn": [
+    "/",
+    "/_system/",
+    "/blog/",
+    "/blog/proteger-votre-voiture-de-la-neige/"
+   ]
+  },
+  {
+   "id": "blog-collection",
+   "class": "enhanced",
+   "cartel": "",
+   "source": "e04-garage-collection-relight.png — e04 (enhanced) — P18 cover",
+   "usedOn": [
+    "/",
+    "/blog/",
+    "/blog/l-ultime-discretion-un-ecrin-pour-votre-collection/"
+   ]
+  },
+  {
+   "id": "fond-amstelveen-hr11",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__Cardok-Amstelveen_HR-11-scaled-1.webp — #11 Amstelveen HR-11 (footer + home end block)",
+   "usedOn": [
+    "/",
+    "/404",
+    "/_system/",
+    "/blog/",
+    "/blog/ameliorer-son-garage-avec-un-ascenseur-a-voiture/",
+    "/blog/bien-plus-qu-un-garage-un-ecrin-pour-vos-voitures/",
+    "/blog/l-ultime-ascenseur-de-parking-hydraulique/",
+    "/blog/l-ultime-discretion-un-ecrin-pour-votre-collection/",
+    "/blog/proteger-votre-voiture-de-la-neige/",
+    "/blog/reinventez-le-luxe-avec-l-ultime-carlift/",
+    "/blog/transformez-votre-garage-en-oeuvre-d-art/",
+    "/blog/un-cardok-peut-il-augmenter-la-valeur-de-votre-propriete/",
+    "/confidentialite/",
+    "/contact/",
+    "/lp/",
+    "/mentions-legales/",
+    "/portrait/",
+    "/projets/",
+    "/projets/amstelveen/",
+    "/projets/bristol/",
+    "/projets/buchillon/",
+    "/projets/cologny/",
+    "/projets/geneve-champel/",
+    "/projets/gstaad/",
+    "/projets/mont-sur-rolle/",
+    "/projets/perroy/",
+    "/projets/porsche-high-wycombe/",
+    "/projets/stavanger/",
+    "/projets/valpuiseaux/",
+    "/solutions/",
+    "/solutions/carlift/",
+    "/solutions/carpark/",
+    "/solutions/carsafe/",
+    "/solutions/projets-speciaux/",
+    "/solutions/slider/",
+    "/solutions/turntable/"
+   ]
+  },
+  {
+   "id": "m02-poster",
+   "class": "original",
+   "cartel": "",
+   "source": "M02-verins-ralenti/m02-poster-1600x900.avif — M02 poster",
+   "usedOn": [
+    "/",
+    "/solutions/carlift/"
+   ]
+  },
+  {
+   "id": "m06-buchillon-1",
+   "class": "enhanced",
+   "cartel": "",
+   "source": "m06-buchillon-1-regrade.png — M06 Buchillon #34 raised (aligned real sequence)",
+   "usedOn": [
+    "/",
+    "/projets/",
+    "/projets/buchillon/"
+   ]
+  },
+  {
+   "id": "m06-buchillon-2",
+   "class": "enhanced",
+   "cartel": "",
+   "source": "m06-buchillon-2-regrade.png — M06 Buchillon #35 half-way (aligned real sequence)",
+   "usedOn": [
+    "/",
+    "/projets/buchillon/"
+   ]
+  },
+  {
+   "id": "m06-buchillon-3",
+   "class": "enhanced",
+   "cartel": "",
+   "source": "m06-buchillon-3-regrade.png — M06 Buchillon #36 closed (aligned real sequence)",
+   "usedOn": [
+    "/",
+    "/projets/buchillon/"
+   ]
+  },
+  {
+   "id": "sol-hub-hero-m",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__THINK-UTOPIA-CARDOK-LOW-39.webp — #61 Mont-sur-Rolle 4:5 (hub hero mobile, plates blurred)",
+   "usedOn": [
+    "/solutions/"
+   ]
+  },
+  {
+   "id": "sol-hub-brentwood",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__Cardok_92b-1.webp — #31 CarLift canopy, red-brick house (hub Accéder, no place named)",
+   "usedOn": [
+    "/projets/",
+    "/projets/bristol/",
+    "/projets/cologny/",
+    "/projets/mont-sur-rolle/",
+    "/projets/stavanger/",
+    "/solutions/",
+    "/solutions/carlift/"
+   ]
+  },
+  {
+   "id": "sol-carlift-hero",
+   "class": "original",
+   "cartel": "",
+   "source": "e02-perroy-carlift-16x9.png — e02 Perroy native 16:9 crop (W5 relief base, d01-aligned)",
+   "usedOn": [
+    "/solutions/",
+    "/solutions/carlift/"
+   ]
+  },
+  {
+   "id": "sol-carlift-hero-m",
+   "class": "enhanced",
+   "cartel": "",
+   "source": "e11-mobile-190sl.png — e11 190SL portrait (enhanced) — CarLift hero mobile",
+   "usedOn": [
+    "/solutions/carlift/"
+   ]
+  },
+  {
+   "id": "sol-depth-perroy",
+   "class": "generated",
+   "cartel": "Illustration",
+   "source": "generated (prompt archived in media-v2/MANIFEST-images-*.md, d01 depth map (Depth-Anything ONNX), never displayed, W5 only)",
+   "usedOn": [
+    "/solutions/carlift/"
+   ]
+  },
+  {
+   "id": "sol-perroy-haut",
+   "class": "original",
+   "cartel": "",
+   "source": "M06-sequences-avant-apres/m06-perroy-1-1920.avif — M06 Perroy #1 raised (aligned real pair)",
+   "usedOn": [
+    "/projets/perroy/",
+    "/solutions/carlift/"
+   ]
+  },
+  {
+   "id": "sol-perroy-bas",
+   "class": "original",
+   "cartel": "",
+   "source": "M06-sequences-avant-apres/m06-perroy-2-1920.avif — M06 Perroy #2 lowered (aligned real pair)",
+   "usedOn": [
+    "/projets/perroy/",
+    "/solutions/carlift/"
+   ]
+  },
+  {
+   "id": "sol-m03-poster",
+   "class": "original",
+   "cartel": "",
+   "source": "M03-cinemagraphe-descente/m03-poster-1600x900.avif — M03 cinemagraph poster (first frame)",
+   "usedOn": [
+    "/solutions/carlift/"
+   ]
+  },
+  {
+   "id": "sol-carlift-plateau",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__Carnevali-3-scaled-1.webp — #41 Valpuiseaux ping-pong on the upper platform, 3:2",
+   "usedOn": [
+    "/blog/ameliorer-son-garage-avec-un-ascenseur-a-voiture/",
+    "/projets/valpuiseaux/",
+    "/solutions/carlift/"
+   ]
+  },
+  {
+   "id": "sol-coupe-38",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__Carlift-system-HC-1.webp — #38 Buchillon 8 frontal cutaway (3 blue cylinders)",
+   "usedOn": [
+    "/solutions/carlift/"
+   ]
+  },
+  {
+   "id": "sol-p-valpuiseaux",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__Carnevali-1.webp — #39 Valpuiseaux 1 (plate blurred)",
+   "usedOn": [
+    "/solutions/carlift/"
+   ]
+  },
+  {
+   "id": "sol-p-antibes",
+   "class": "enhanced",
+   "cartel": "",
+   "source": "e03-antibes-carlift-restauration.png — e03 Antibes (enhanced, blank plate)",
+   "usedOn": [
+    "/projets/",
+    "/projets/amstelveen/",
+    "/projets/buchillon/",
+    "/projets/perroy/",
+    "/projets/valpuiseaux/",
+    "/solutions/carlift/"
+   ]
+  },
+  {
+   "id": "sol-p-collonge",
+   "class": "enhanced",
+   "cartel": "",
+   "source": "e05-nuit-carlift-villa.png — e05 Collonge-Bellerive night (enhanced)",
+   "usedOn": [
+    "/blog/reinventez-le-luxe-avec-l-ultime-carlift/",
+    "/projets/",
+    "/projets/amstelveen/",
+    "/projets/buchillon/",
+    "/projets/perroy/",
+    "/projets/valpuiseaux/",
+    "/solutions/carlift/"
+   ]
+  },
+  {
+   "id": "sol-p-walchwil",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__Carlift-rigid-chains-Walchwil-2-1.webp — Walchwil 2 (plate blurred)",
+   "usedOn": [
+    "/projets/",
+    "/projets/amstelveen/",
+    "/projets/buchillon/",
+    "/projets/perroy/",
+    "/projets/valpuiseaux/",
+    "/solutions/carlift/"
+   ]
+  },
+  {
+   "id": "sol-p-rolle",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-04__IMG_3992.webp — Rolle 4",
+   "usedOn": [
+    "/projets/",
+    "/projets/amstelveen/",
+    "/projets/buchillon/",
+    "/projets/perroy/",
+    "/projets/valpuiseaux/",
+    "/solutions/carlift/"
+   ]
+  },
+  {
+   "id": "sol-p-rolle-2",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-04__IMG_3990.webp — Rolle 2",
+   "usedOn": [
+    "/projets/",
+    "/projets/amstelveen/",
+    "/projets/buchillon/",
+    "/projets/perroy/",
+    "/projets/valpuiseaux/",
+    "/solutions/carlift/"
+   ]
+  },
+  {
+   "id": "sol-carsafe-hero",
+   "class": "original",
+   "cartel": "",
+   "source": "e01-carsafe-jardin-21x9.png — e01 #167 CarSafe 6000 native 21:9 crop",
+   "usedOn": [
+    "/blog/bien-plus-qu-un-garage-un-ecrin-pour-vos-voitures/",
+    "/projets/mont-sur-rolle/",
+    "/solutions/carsafe/"
+   ]
+  },
+  {
+   "id": "sol-carsafe-toit",
+   "class": "original",
+   "cartel": "",
+   "source": "2025-02__CarSafe-1.webp — #166 CarSafe planted roof lifting, 911 below",
+   "usedOn": [
+    "/blog/un-cardok-peut-il-augmenter-la-valeur-de-votre-propriete/",
+    "/solutions/carpark/",
+    "/solutions/carsafe/"
+   ]
+  },
+  {
+   "id": "sol-carsafe-maison",
+   "class": "original",
+   "cartel": "",
+   "source": "2025-02__carsafe-1.jpg — CarSafe levé devant une maison (cardok.com, carsafe-1.jpg) — remplace g04 généré",
+   "usedOn": [
+    "/solutions/carsafe/"
+   ]
+  },
+  {
+   "id": "sol-carsafe-neige",
+   "class": "generated",
+   "cartel": "Illustration",
+   "source": "generated (prompt archived in media-v2/MANIFEST-images-*.md, g04 same view under snow (generated, Illustration))",
+   "usedOn": []
+  },
+  {
+   "id": "sol-carsafe-fosse",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__THINK-UTOPIA-CARDOK-LOW-42-1.webp — #62 Mont-sur-Rolle pit open, lower level visible (KLAUSEN dealer plate blurred)",
+   "usedOn": [
+    "/projets/mont-sur-rolle/",
+    "/solutions/carsafe/"
+   ]
+  },
+  {
+   "id": "sol-carsafe-colonne",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__THINK-UTOPIA-CARDOK-LOW-14.webp — #58 THINK UTOPIA engraved CARDOK column + cylinders",
+   "usedOn": [
+    "/projets/mont-sur-rolle/",
+    "/solutions/carsafe/"
+   ]
+  },
+  {
+   "id": "sol-p-cologny",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-04__IMG_5902-kopia.webp — #97 Cologny 2 (plates blurred)",
+   "usedOn": [
+    "/solutions/carsafe/"
+   ]
+  },
+  {
+   "id": "sol-p-bristol",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__Cardok-UK-photos-5-1.webp — #25 Bristol 2 (CARDOK dealer plates; passer-by blurred)",
+   "usedOn": [
+    "/solutions/carsafe/"
+   ]
+  },
+  {
+   "id": "sol-p-paris",
+   "class": "enhanced",
+   "cartel": "",
+   "source": "e14-paris-cour.png — e14 Paris XVIe courtyard (enhanced, blank plate)",
+   "usedOn": [
+    "/blog/un-cardok-peut-il-augmenter-la-valeur-de-votre-propriete/",
+    "/projets/",
+    "/projets/bristol/",
+    "/projets/cologny/",
+    "/projets/mont-sur-rolle/",
+    "/projets/stavanger/",
+    "/solutions/carsafe/"
+   ]
+  },
+  {
+   "id": "sol-p-genolier",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__Genolier-2.webp — Genolier 1 (plates blurred)",
+   "usedOn": [
+    "/projets/",
+    "/projets/bristol/",
+    "/projets/cologny/",
+    "/projets/mont-sur-rolle/",
+    "/projets/stavanger/",
+    "/solutions/carsafe/"
+   ]
+  },
+  {
+   "id": "sol-p-begnins",
+   "class": "enhanced",
+   "cartel": "",
+   "source": "e10-begnins-restauration.png — e10 Begnins 2 (enhanced, blank plates) 4:5",
+   "usedOn": [
+    "/projets/",
+    "/projets/bristol/",
+    "/projets/cologny/",
+    "/projets/mont-sur-rolle/",
+    "/projets/stavanger/",
+    "/solutions/carsafe/"
+   ]
+  },
+  {
+   "id": "sol-carpark-hero",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-04__Cardok_41_HD.jpg — #83 CarPark indoor (CARDOK dealer plates)",
+   "usedOn": [
+    "/solutions/",
+    "/solutions/carpark/",
+    "/solutions/carsafe/"
+   ]
+  },
+  {
+   "id": "sol-carpark-hero-m",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-04__Cardok_40_HD.jpg — #82 CarPark portrait 4:5",
+   "usedOn": [
+    "/solutions/carpark/"
+   ]
+  },
+  {
+   "id": "sol-carpark-champel",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__0c42932f-cd8a-4c33-bfe5-32255806bef1.webp — #0 Genève-Champel 1",
+   "usedOn": [
+    "/projets/",
+    "/projets/geneve-champel/",
+    "/solutions/carpark/"
+   ]
+  },
+  {
+   "id": "sol-carpark-rangee-v",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__IMG_1512.webp — #48 Genève-Champel 3, row of CarPark platforms (portrait)",
+   "usedOn": [
+    "/projets/geneve-champel/",
+    "/projets/gstaad/",
+    "/solutions/carpark/"
+   ]
+  },
+  {
+   "id": "sol-turntable-hero",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__Image2.webp — #51 classic 911 on the paved Turntable (no plate visible)",
+   "usedOn": [
+    "/solutions/turntable/"
+   ]
+  },
+  {
+   "id": "sol-turntable-hero-m",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__Image11.webp — #50 same 911 rear 3/4, 4:5 (plates blurred)",
+   "usedOn": [
+    "/solutions/turntable/"
+   ]
+  },
+  {
+   "id": "sol-turntable-garage",
+   "class": "enhanced",
+   "cartel": "",
+   "source": "e07-garage-turntable-neutre.png — e07 private garage Turntable (enhanced, brand emblems removed)",
+   "usedOn": [
+    "/blog/",
+    "/blog/transformez-votre-garage-en-oeuvre-d-art/",
+    "/solutions/carlift/",
+    "/solutions/slider/",
+    "/solutions/turntable/"
+   ]
+  },
+  {
+   "id": "sol-turntable-collection",
+   "class": "enhanced",
+   "cartel": "",
+   "source": "e04-garage-collection-relight.png — e04 collector garage Turntable (enhanced relight)",
+   "usedOn": [
+    "/blog/transformez-votre-garage-en-oeuvre-d-art/",
+    "/solutions/turntable/"
+   ]
+  },
+  {
+   "id": "sol-turntable-garage-3",
+   "class": "enhanced",
+   "cartel": "",
+   "source": "e08-garage-turntable-3-neutre.png — e08 garage Turntable 3 (enhanced, emblem removed)",
+   "usedOn": [
+    "/projets/",
+    "/projets/amstelveen/",
+    "/projets/buchillon/",
+    "/projets/perroy/",
+    "/projets/valpuiseaux/",
+    "/solutions/turntable/"
+   ]
+  },
+  {
+   "id": "sol-tex-pierre",
+   "class": "generated",
+   "cartel": "Illustration",
+   "source": "generated (prompt archived in media-v2/MANIFEST-images-*.md, t01 granite setts texture (generated, W4))",
+   "usedOn": []
+  },
+  {
+   "id": "sol-tex-bois",
+   "class": "generated",
+   "cartel": "Illustration",
+   "source": "generated (prompt archived in media-v2/MANIFEST-images-*.md, t02 oiled hardwood decking texture (generated, W4))",
+   "usedOn": []
+  },
+  {
+   "id": "sol-tex-beton",
+   "class": "generated",
+   "cartel": "Illustration",
+   "source": "generated (prompt archived in media-v2/MANIFEST-images-*.md, t03 brushed concrete texture (generated, W4))",
+   "usedOn": []
+  },
+  {
+   "id": "sol-slider-hero",
+   "class": "enhanced",
+   "cartel": "",
+   "source": "e15-slider-relight.png — e15 Lausanne Slider (enhanced relight)",
+   "usedOn": [
+    "/projets/",
+    "/solutions/",
+    "/solutions/slider/"
+   ]
+  },
+  {
+   "id": "sol-slider-lausanne",
+   "class": "enhanced",
+   "cartel": "",
+   "source": "e17-lausanne-slider-restauration.png — e17 Lausanne 1 Slider (enhanced restoration of the 592 px original)",
+   "usedOn": [
+    "/projets/",
+    "/solutions/slider/",
+    "/solutions/turntable/"
+   ]
+  },
+  {
+   "id": "sol-special-cour",
+   "class": "enhanced",
+   "cartel": "",
+   "source": "e19-cour-paris-sans-passant.png — e19 #224 Paris courtyard, flush platform (enhanced: passer-by removed by model inpaint, composited at native resolution)",
+   "usedOn": [
+    "/solutions/projets-speciaux/"
+   ]
+  },
+  {
+   "id": "sol-special-enceinte",
+   "class": "original",
+   "cartel": "",
+   "source": "2025-06__IMG_1595-scaled-e1749643552249.jpg — #222 galvanised enclosure (third-party sign, driver, plate blurred)",
+   "usedOn": [
+    "/solutions/projets-speciaux/"
+   ]
+  },
+  {
+   "id": "sol-special-navettes",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-04__exclusive-edition-8.jpg — #111 automated parking, blue shuttle frames",
+   "usedOn": [
+    "/solutions/",
+    "/solutions/projets-speciaux/"
+   ]
+  },
+  {
+   "id": "sol-carpark-rangee",
+   "class": "enhanced",
+   "cartel": "",
+   "source": "e18-carpark-rangee-relight.png — e18 Genève-Champel 2, row of CarPark platforms (enhanced relight of #30)",
+   "usedOn": [
+    "/solutions/carpark/"
+   ]
+  },
+  {
+   "id": "sol-yt-carlift",
+   "class": "original",
+   "cartel": "",
+   "source": "/cial/data/deliverables/cardok/site-web/media-v2/src-video/yt-thumbs/cUtBiu0dEcI.jpg — YouTube cUtBiu0dEcI frame (Cardok's own thumbnail) — video facade poster",
+   "usedOn": [
+    "/solutions/carlift/"
+   ]
+  },
+  {
+   "id": "sol-yt-turntable",
+   "class": "original",
+   "cartel": "",
+   "source": "/cial/data/deliverables/cardok/site-web/media-v2/src-video/yt-thumbs/KEeMVoSvhOA.jpg — YouTube KEeMVoSvhOA frame, cropped to exclude the title overlay, plate blurred — video facade poster",
+   "usedOn": [
+    "/solutions/turntable/"
+   ]
+  },
+  {
+   "id": "sol-yt-special",
+   "class": "original",
+   "cartel": "",
+   "source": "/cial/data/deliverables/cardok/site-web/media-v2/src-video/yt-thumbs/y-cvKzQfsVI.jpg — YouTube y-cvKzQfsVI frame, cropped to exclude the watermark — video facade poster",
+   "usedOn": [
+    "/solutions/projets-speciaux/"
+   ]
+  },
+  {
+   "id": "sol-yt-carsafe",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__THINK-UTOPIA-CARDOK-LOW-19-1.webp — #59 Mont-sur-Rolle wide garden, CarSafe — video facade poster",
+   "usedOn": [
+    "/solutions/carsafe/"
+   ]
+  },
+  {
+   "id": "prj-hero-panorama",
+   "class": "enhanced",
+   "cartel": "",
+   "source": "e13-perroy-panorama-21x9.png — e13 Perroy panorama 21:9 (ciel et sol étendus, seule extension autorisée)",
+   "usedOn": [
+    "/projets/",
+    "/projets/perroy/"
+   ]
+  },
+  {
+   "id": "prj-amstelveen-07",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__Cardok-Amstelveen_HR-07-1.webp — Amstelveen 1 (HR-07)",
+   "usedOn": [
+    "/blog/l-ultime-ascenseur-de-parking-hydraulique/",
+    "/projets/amstelveen/",
+    "/projets/buchillon/",
+    "/projets/geneve-champel/",
+    "/projets/gstaad/",
+    "/projets/perroy/",
+    "/projets/valpuiseaux/",
+    "/solutions/carlift/"
+   ]
+  },
+  {
+   "id": "prj-amstelveen-12",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__Cardok-Amstelveen_HR-12-1.webp — Amstelveen 2 (HR-12)",
+   "usedOn": [
+    "/blog/l-ultime-discretion-un-ecrin-pour-votre-collection/",
+    "/projets/amstelveen/"
+   ]
+  },
+  {
+   "id": "prj-amstelveen-13",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__Cardok-Amstelveen_HR-13-1.webp — Amstelveen 3 (HR-13) = contact.webp",
+   "usedOn": [
+    "/blog/reinventez-le-luxe-avec-l-ultime-carlift/",
+    "/contact/",
+    "/projets/amstelveen/"
+   ]
+  },
+  {
+   "id": "prj-amstelveen-15",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__Cardok-Amstelveen_HR-15-1.webp — Amstelveen 4 (HR-15)",
+   "usedOn": [
+    "/blog/ameliorer-son-garage-avec-un-ascenseur-a-voiture/",
+    "/projets/amstelveen/"
+   ]
+  },
+  {
+   "id": "prj-amstelveen-17",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__Cardok-Amstelveen_HR-17-1.webp — Amstelveen 5 (HR-17)",
+   "usedOn": [
+    "/blog/proteger-votre-voiture-de-la-neige/",
+    "/projets/amstelveen/"
+   ]
+  },
+  {
+   "id": "prj-amstelveen-19",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__Cardok-Amstelveen_HR-19-1.webp — Amstelveen 7 (HR-19)",
+   "usedOn": [
+    "/blog/transformez-votre-garage-en-oeuvre-d-art/",
+    "/contact/",
+    "/projets/amstelveen/"
+   ]
+  },
+  {
+   "id": "prj-amstelveen-30",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__Cardok-Amstelveen_HR-30-1.webp — Amstelveen 8 (HR-30) vérins",
+   "usedOn": [
+    "/blog/l-ultime-ascenseur-de-parking-hydraulique/",
+    "/projets/amstelveen/"
+   ]
+  },
+  {
+   "id": "prj-amstelveen-panneau",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-04__control-panel.jpg — Amstelveen 6 (HR-18 / control-panel HD)",
+   "usedOn": [
+    "/blog/l-ultime-ascenseur-de-parking-hydraulique/",
+    "/projets/amstelveen/"
+   ]
+  },
+  {
+   "id": "prj-depth-amstelveen",
+   "class": "generated",
+   "cartel": "Illustration",
+   "source": "generated (prompt archived in media-v2/MANIFEST-images-*.md, d02 depth map (never displayed, W5))",
+   "usedOn": [
+    "/projets/amstelveen/"
+   ]
+  },
+  {
+   "id": "prj-buchillon-cabine",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__Carlift-inside-door-open-1-1.webp — Buchillon 1 (inside door open)",
+   "usedOn": [
+    "/projets/amstelveen/",
+    "/projets/buchillon/",
+    "/projets/geneve-champel/",
+    "/projets/gstaad/",
+    "/projets/perroy/",
+    "/projets/valpuiseaux/",
+    "/solutions/carlift/"
+   ]
+  },
+  {
+   "id": "prj-buchillon-coupe",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__Carlift-system-HC-1.webp — Buchillon 8 (#38 cutaway, full portrait)",
+   "usedOn": [
+    "/projets/buchillon/"
+   ]
+  },
+  {
+   "id": "prj-msr-bas",
+   "class": "original",
+   "cartel": "",
+   "source": "b3-msr-bas.png — Mont-sur-Rolle 1 (LOW-19) aligned, platform down",
+   "usedOn": [
+    "/blog/bien-plus-qu-un-garage-un-ecrin-pour-vos-voitures/",
+    "/projets/mont-sur-rolle/"
+   ]
+  },
+  {
+   "id": "prj-msr-haut",
+   "class": "original",
+   "cartel": "",
+   "source": "b3-msr-haut.png — Mont-sur-Rolle 5 (think) aligned on LOW-19, raised",
+   "usedOn": [
+    "/blog/un-cardok-peut-il-augmenter-la-valeur-de-votre-propriete/",
+    "/projets/mont-sur-rolle/"
+   ]
+  },
+  {
+   "id": "prj-msr-klausen",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__THINK-UTOPIA-CARDOK-LOW-12.webp — Mont-sur-Rolle detail (LOW-12)",
+   "usedOn": [
+    "/projets/mont-sur-rolle/"
+   ]
+  },
+  {
+   "id": "prj-msr-detail",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__THINK-UTOPIA-CARDOK-LOW-13.webp — Mont-sur-Rolle detail (LOW-13)",
+   "usedOn": [
+    "/projets/bristol/",
+    "/projets/cologny/",
+    "/projets/geneve-champel/",
+    "/projets/gstaad/",
+    "/projets/mont-sur-rolle/",
+    "/projets/stavanger/",
+    "/solutions/carsafe/"
+   ]
+  },
+  {
+   "id": "prj-valpuiseaux",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__Carnevali-1.webp — Valpuiseaux 1 (#39) hero",
+   "usedOn": [
+    "/projets/",
+    "/projets/valpuiseaux/"
+   ]
+  },
+  {
+   "id": "prj-valpuiseaux-vitre",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__Carnevali-2-scaled-1.webp — Valpuiseaux 2 (#40 ascenseur vitré)",
+   "usedOn": [
+    "/blog/ameliorer-son-garage-avec-un-ascenseur-a-voiture/",
+    "/blog/transformez-votre-garage-en-oeuvre-d-art/",
+    "/projets/valpuiseaux/"
+   ]
+  },
+  {
+   "id": "prj-valpuiseaux-banc",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__Carnevali-4-1.webp — Valpuiseaux 4 (#42)",
+   "usedOn": [
+    "/projets/amstelveen/",
+    "/projets/buchillon/",
+    "/projets/perroy/",
+    "/projets/valpuiseaux/"
+   ]
+  },
+  {
+   "id": "prj-champel-2",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__Cardok_88b.webp — Genève-Champel 2 (#30 Cardok_88b)",
+   "usedOn": [
+    "/projets/geneve-champel/"
+   ]
+  },
+  {
+   "id": "prj-perroy-ferme",
+   "class": "original",
+   "cartel": "",
+   "source": "b3-perroy-3-ferme.png — Perroy 3 (1049) aligned on the M06 Perroy reference, same e02 box and tone",
+   "usedOn": [
+    "/blog/proteger-votre-voiture-de-la-neige/",
+    "/projets/perroy/"
+   ]
+  },
+  {
+   "id": "prj-perroy-356",
+   "class": "enhanced",
+   "cartel": "",
+   "source": "e09-perroy-356-restauration.png — e09 Porsche 356 (restauration)",
+   "usedOn": [
+    "/projets/amstelveen/",
+    "/projets/buchillon/",
+    "/projets/geneve-champel/",
+    "/projets/gstaad/",
+    "/projets/perroy/",
+    "/projets/valpuiseaux/",
+    "/solutions/carlift/"
+   ]
+  },
+  {
+   "id": "prj-stavanger-911",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__Cardok-Multi-6000-Norway-1-1.webp — Stavanger 1 (#19)",
+   "usedOn": [
+    "/projets/bristol/",
+    "/projets/cologny/",
+    "/projets/mont-sur-rolle/",
+    "/projets/stavanger/",
+    "/solutions/carsafe/"
+   ]
+  },
+  {
+   "id": "prj-stavanger-x5",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__Cardok-Multi-6000-Norway-2-1.webp — Stavanger 3 (#20)",
+   "usedOn": [
+    "/projets/stavanger/"
+   ]
+  },
+  {
+   "id": "prj-gstaad-2",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__20210512_153354.webp — Gstaad 2 (#7)",
+   "usedOn": [
+    "/projets/geneve-champel/",
+    "/projets/gstaad/",
+    "/solutions/carpark/"
+   ]
+  },
+  {
+   "id": "prj-gstaad-3",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__20210512_153657.webp — Gstaad 3 (#8)",
+   "usedOn": [
+    "/projets/gstaad/"
+   ]
+  },
+  {
+   "id": "prj-cologny",
+   "class": "original",
+   "cartel": "",
+   "source": "2025-02__CarSafe-9000.webp — Cologny (#168 CarSafe 9000, HD of Cologny 2)",
+   "usedOn": [
+    "/blog/bien-plus-qu-un-garage-un-ecrin-pour-vos-voitures/",
+    "/projets/",
+    "/projets/cologny/"
+   ]
+  },
+  {
+   "id": "prj-cologny-trio",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-04__Photo-Trio-1-kopia.webp — Cologny 1 (#103)",
+   "usedOn": [
+    "/projets/cologny/"
+   ]
+  },
+  {
+   "id": "prj-cologny-lac",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__20200402_095948-1.webp — Cologny 3 (#4)",
+   "usedOn": [
+    "/projets/bristol/",
+    "/projets/cologny/",
+    "/projets/mont-sur-rolle/",
+    "/projets/stavanger/"
+   ]
+  },
+  {
+   "id": "prj-bristol",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__Cardok-UK-photos-5-1.webp — Bristol 2 (#25) hero",
+   "usedOn": [
+    "/projets/",
+    "/projets/bristol/"
+   ]
+  },
+  {
+   "id": "prj-bristol-mini",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__Cardok-UK-photos-1-2.webp — Bristol 1 (#23)",
+   "usedOn": [
+    "/projets/bristol/"
+   ]
+  },
+  {
+   "id": "prj-bristol-q7",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__Cardok-UK-photos-3-1.webp — Bristol 3 (#24)",
+   "usedOn": [
+    "/projets/bristol/",
+    "/projets/cologny/",
+    "/projets/mont-sur-rolle/",
+    "/projets/stavanger/"
+   ]
+  },
+  {
+   "id": "prj-geneve",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__20190924_173949-1.webp — Genève (#3)",
+   "usedOn": [
+    "/projets/",
+    "/projets/bristol/",
+    "/projets/cologny/",
+    "/projets/mont-sur-rolle/",
+    "/projets/stavanger/"
+   ]
+  },
+  {
+   "id": "prj-bale",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__Basel-2-1.webp — Bâle (#9)",
+   "usedOn": [
+    "/projets/",
+    "/projets/bristol/",
+    "/projets/cologny/",
+    "/projets/mont-sur-rolle/",
+    "/projets/stavanger/"
+   ]
+  },
+  {
+   "id": "prj-tannay-1",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__Tannay-2-x-Muli-2-2-1.webp — Tannay 1",
+   "usedOn": [
+    "/projets/",
+    "/projets/bristol/",
+    "/projets/cologny/",
+    "/projets/mont-sur-rolle/",
+    "/projets/stavanger/"
+   ]
+  },
+  {
+   "id": "prj-tannay-2",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__Tannay-2-x-Muli-2-1-1.webp — Tannay 2",
+   "usedOn": [
+    "/projets/",
+    "/projets/bristol/",
+    "/projets/cologny/",
+    "/projets/mont-sur-rolle/",
+    "/projets/stavanger/"
+   ]
+  },
+  {
+   "id": "prj-paris-2",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__Cardok-Multi-x-2-Paris-5-1.webp — Paris XVIe (Paris-5)",
+   "usedOn": [
+    "/projets/",
+    "/projets/bristol/",
+    "/projets/cologny/",
+    "/projets/mont-sur-rolle/",
+    "/projets/stavanger/"
+   ]
+  },
+  {
+   "id": "prj-genolier-2",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__Genolier-1-1.webp — Genolier 2",
+   "usedOn": [
+    "/blog/l-ultime-discretion-un-ecrin-pour-votre-collection/",
+    "/projets/",
+    "/projets/bristol/",
+    "/projets/cologny/",
+    "/projets/mont-sur-rolle/",
+    "/projets/stavanger/"
+   ]
+  },
+  {
+   "id": "prj-troinex",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__DSC_9246_s-1.webp — Troinex (#43) 3:2",
+   "usedOn": [
+    "/blog/l-ultime-discretion-un-ecrin-pour-votre-collection/",
+    "/projets/",
+    "/projets/bristol/",
+    "/projets/cologny/",
+    "/projets/mont-sur-rolle/",
+    "/projets/stavanger/"
+   ]
+  },
+  {
+   "id": "prj-begnins",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-04__Cardok_105b.jpg — Begnins 1 (Cardok_105b, 887 px)",
+   "usedOn": [
+    "/projets/",
+    "/projets/bristol/",
+    "/projets/cologny/",
+    "/projets/mont-sur-rolle/",
+    "/projets/stavanger/"
+   ]
+  },
+  {
+   "id": "etude-showroom-1",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__Cardok_56b-1.webp — Cardok_56b-1 (fond de la page Porsche de cardok.com)",
+   "usedOn": [
+    "/projets/",
+    "/projets/porsche-high-wycombe/"
+   ]
+  },
+  {
+   "id": "etude-showroom-2",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__Cardok_55b-1.webp — Cardok_55b-1 (page Porsche de cardok.com)",
+   "usedOn": [
+    "/projets/porsche-high-wycombe/"
+   ]
+  },
+  {
+   "id": "etude-showroom-3",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__IMG_1158-1.webp — IMG_1158-1 (page Porsche de cardok.com)",
+   "usedOn": [
+    "/projets/porsche-high-wycombe/"
+   ]
+  },
+  {
+   "id": "por-hero",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-04__IMG_3992.webp — #96 IMG_3992 (fond Portrait de cardok.com)",
+   "usedOn": [
+    "/portrait/"
+   ]
+  },
+  {
+   "id": "por-fin",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-04__IMG_3990.webp — #95 IMG_3990",
+   "usedOn": [
+    "/portrait/"
+   ]
+  },
+  {
+   "id": "por-m09-poster",
+   "class": "original",
+   "cartel": "",
+   "source": "M09-de-a-a-z/m09-poster-1920x1080.avif — M09 poster",
+   "usedOn": [
+    "/portrait/"
+   ]
+  },
+  {
+   "id": "por-conception",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__Carlift-system-HC-1.webp — #38 cutaway",
+   "usedOn": [
+    "/portrait/"
+   ]
+  },
+  {
+   "id": "por-atelier",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-04__C096DA2C-57D4-4E97-952C-F6B31FB64649.jpg — #79 workshop",
+   "usedOn": [
+    "/portrait/"
+   ]
+  },
+  {
+   "id": "por-soudure",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-04__IMG_0064.jpg — #84 welding",
+   "usedOn": [
+    "/portrait/"
+   ]
+  },
+  {
+   "id": "por-halle",
+   "class": "original",
+   "cartel": "",
+   "source": "b3-atelier-halle.png — #90 production hall, green cast neutralised (channel balance)",
+   "usedOn": [
+    "/portrait/"
+   ]
+  },
+  {
+   "id": "por-camion",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-04__84df98af-cba7-4f74-9eeb-5a1ee77242ec.jpg — #77 truck side",
+   "usedOn": [
+    "/portrait/"
+   ]
+  },
+  {
+   "id": "por-camion-2",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-04__IMG_9139.jpg — #101 truck front",
+   "usedOn": [
+    "/portrait/"
+   ]
+  },
+  {
+   "id": "por-grue-paris",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-04__IMG_7856.jpg — #100 crane between Paris facades",
+   "usedOn": [
+    "/portrait/"
+   ]
+  },
+  {
+   "id": "por-grue-jardin",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-04__IMG_E5801.jpg — #102 crane in villa garden",
+   "usedOn": [
+    "/portrait/"
+   ]
+  },
+  {
+   "id": "por-fosse",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-05__exclusive.jpeg — #133 pit under construction",
+   "usedOn": [
+    "/portrait/"
+   ]
+  },
+  {
+   "id": "por-patrick",
+   "class": "original",
+   "cartel": "",
+   "source": "2025-02__patrick.webp — #188 Patrick (public, léger étalonnage seulement, jamais passé par un modèle)",
+   "usedOn": [
+    "/portrait/"
+   ]
+  },
+  {
+   "id": "por-monika",
+   "class": "original",
+   "cartel": "",
+   "source": "2025-02__monika.webp — #187 Monika (public, léger étalonnage seulement, jamais passé par un modèle)",
+   "usedOn": [
+    "/portrait/"
+   ]
+  },
+  {
+   "id": "blog-led",
+   "class": "enhanced",
+   "cartel": "",
+   "source": "e16-led-crepuscule.png — e16 LED crépuscule (P14)",
+   "usedOn": [
+    "/blog/",
+    "/blog/reinventez-le-luxe-avec-l-ultime-carlift/"
+   ]
+  },
+  {
+   "id": "blog-coupe",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__Carlift-system-HC-1.webp — #38 (P15)",
+   "usedOn": [
+    "/blog/",
+    "/blog/l-ultime-ascenseur-de-parking-hydraulique/"
+   ]
+  },
+  {
+   "id": "blog-cabine",
+   "class": "original",
+   "cartel": "",
+   "source": "2024-03__Carlift-inside-door-open-1-1.webp — #32 (P17)",
+   "usedOn": [
+    "/blog/",
+    "/blog/ameliorer-son-garage-avec-un-ascenseur-a-voiture/"
+   ]
+  },
+  {
+   "id": "saison-jour",
+   "class": "enhanced",
+   "cartel": "",
+   "source": "m06-buchillon-3-regrade.png — W3 état 1 : #36 réel (M06 frame 3)",
+   "usedOn": [
+    "/blog/proteger-votre-voiture-de-la-neige/"
+   ]
+  },
+  {
+   "id": "saison-nuit",
+   "class": "generated",
+   "cartel": "Illustration",
+   "source": "generated (prompt archived in media-v2/MANIFEST-images-*.md, g01)",
+   "usedOn": [
+    "/blog/proteger-votre-voiture-de-la-neige/"
+   ]
+  },
+  {
+   "id": "saison-neige",
+   "class": "generated",
+   "cartel": "Illustration",
+   "source": "generated (prompt archived in media-v2/MANIFEST-images-*.md, g02)",
+   "usedOn": [
+    "/blog/proteger-votre-voiture-de-la-neige/"
+   ]
+  }
+ ],
+ "media": [
+  {
+   "id": "m01-hero",
+   "class": "original",
+   "cartel": "",
+   "source": "M01 — Cardok public film 2025-01__Cardok3-2025.mp4, recut",
+   "files": [
+    "assets/video/m01-hero-"
+   ],
+   "usedOn": [
+    "/",
+    "/lp/"
+   ]
+  },
+  {
+   "id": "m02-verins",
+   "class": "enhanced",
+   "cartel": "",
+   "source": "M02 — Cardok public film, motion-compensated slow motion (interpolated frames)",
+   "files": [
+    "assets/video/m02-"
+   ],
+   "usedOn": [
+    "/",
+    "/solutions/carlift/"
+   ]
+  },
+  {
+   "id": "m03-cinemagraphe",
+   "class": "enhanced",
+   "cartel": "",
+   "source": "M03 — Cardok public film, cinemagraph with interpolated frames",
+   "files": [
+    "assets/video/m03-"
+   ],
+   "usedOn": [
+    "/solutions/carlift/"
+   ]
+  },
+  {
+   "id": "m09-de-a-a-z",
+   "class": "original",
+   "cartel": "",
+   "source": "M09 — Cardok public film, recut",
+   "files": [
+    "assets/video/m09-"
+   ],
+   "usedOn": [
+    "/portrait/"
+   ]
+  },
+  {
+   "id": "m06-buchillon",
+   "class": "original",
+   "cartel": "",
+   "source": "M06 — Cardok public photos #34–#36 (Buchillon), aligned and regraded, no generated pixels",
+   "files": [
+    "assets/m06/m06-buchillon-"
+   ],
+   "usedOn": []
+  },
+  {
+   "id": "m06-perroy",
+   "class": "original",
+   "cartel": "",
+   "source": "M06 — Cardok public photos 15_06_cardok1033/1045 (Perroy), aligned and regraded",
+   "files": [
+    "assets/m06/m06-perroy-"
+   ],
+   "usedOn": []
+  },
+  {
+   "id": "seq-carlift",
+   "class": "schema",
+   "cartel": "Schéma de principe",
+   "source": "M04 — procedural white 3D model (three.js), 60 frames",
+   "files": [
+    "assets/seq/carlift/"
+   ],
+   "usedOn": [
+    "/",
+    "/blog/ameliorer-son-garage-avec-un-ascenseur-a-voiture/",
+    "/blog/l-ultime-ascenseur-de-parking-hydraulique/",
+    "/blog/proteger-votre-voiture-de-la-neige/",
+    "/blog/reinventez-le-luxe-avec-l-ultime-carlift/",
+    "/contact/",
+    "/lp/",
+    "/solutions/",
+    "/solutions/carlift/",
+    "/solutions/turntable/"
+   ]
+  },
+  {
+   "id": "seq-carpark",
+   "class": "schema",
+   "cartel": "Schéma de principe",
+   "source": "M04 — procedural white 3D model (three.js), 60 frames",
+   "files": [
+    "assets/seq/carpark/"
+   ],
+   "usedOn": [
+    "/contact/",
+    "/solutions/carpark/",
+    "/solutions/carsafe/"
+   ]
+  },
+  {
+   "id": "seq-carsafe",
+   "class": "schema",
+   "cartel": "Schéma de principe",
+   "source": "M04 — procedural white 3D model (three.js), 60 frames",
+   "files": [
+    "assets/seq/carsafe/"
+   ],
+   "usedOn": [
+    "/",
+    "/blog/bien-plus-qu-un-garage-un-ecrin-pour-vos-voitures/",
+    "/blog/l-ultime-discretion-un-ecrin-pour-votre-collection/",
+    "/blog/un-cardok-peut-il-augmenter-la-valeur-de-votre-propriete/",
+    "/contact/",
+    "/lp/",
+    "/solutions/",
+    "/solutions/carpark/",
+    "/solutions/carsafe/"
+   ]
+  },
+  {
+   "id": "seq-slider",
+   "class": "schema",
+   "cartel": "Schéma de principe",
+   "source": "M04 — procedural white 3D model (three.js), 60 frames",
+   "files": [
+    "assets/seq/slider/"
+   ],
+   "usedOn": [
+    "/contact/",
+    "/solutions/slider/",
+    "/solutions/turntable/"
+   ]
+  },
+  {
+   "id": "seq-special",
+   "class": "schema",
+   "cartel": "Schéma de principe",
+   "source": "M04 — procedural white 3D model (three.js), 60 frames",
+   "files": [
+    "assets/seq/special/"
+   ],
+   "usedOn": [
+    "/",
+    "/blog/transformez-votre-garage-en-oeuvre-d-art/",
+    "/contact/",
+    "/lp/",
+    "/portrait/",
+    "/solutions/",
+    "/solutions/projets-speciaux/"
+   ]
+  },
+  {
+   "id": "seq-turntable",
+   "class": "schema",
+   "cartel": "Schéma de principe",
+   "source": "M04 — procedural white 3D model (three.js), 60 frames",
+   "files": [
+    "assets/seq/turntable/"
+   ],
+   "usedOn": [
+    "/",
+    "/_system/",
+    "/contact/",
+    "/lp/",
+    "/solutions/",
+    "/solutions/carlift/",
+    "/solutions/slider/"
+   ]
+  },
+  {
+   "id": "m04-car-topdown",
+   "class": "schema",
+   "cartel": "Schéma de principe",
+   "source": "M04 — generic car seen from above, procedural render (W4 sprite)",
+   "files": [
+    "assets/seq/m04-car-topdown-"
+   ],
+   "usedOn": []
+  },
+  {
+   "id": "m07-perroy-trait",
+   "class": "schema",
+   "cartel": "Schéma de principe",
+   "source": "M07 — line drawing traced by hand over Cardok photo e02 (Perroy)",
+   "files": [
+    "assets/svg/m07-perroy-trait.svg"
+   ],
+   "usedOn": []
+  },
+  {
+   "id": "m08-coupe",
+   "class": "schema",
+   "cartel": "Schéma de principe",
+   "source": "M08 — hand-authored principle section, no detail of a real building",
+   "files": [
+    "assets/svg/m08-coupe.svg"
+   ],
+   "usedOn": []
+  }
+ ]
+}

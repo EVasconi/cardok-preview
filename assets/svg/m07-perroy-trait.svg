@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" fill="none" stroke="#000" stroke-width="1" stroke-linecap="square" role="img" aria-label="Dessin au trait de la cour de Perroy : villa, mur, auvent du CarLift et son plateau">
+  <!-- Traced by hand (line-segment detection as guide) over Cardok's photograph 15_06_cardok1033, e02 crop (0,220,2000,1125) scaled to 1600x900.
+       Principle drawing: villa outline, garden wall, canopy, 4 posts, platform footprint (red). Every path has pathLength="1" for stroke-dashoffset drawing. -->
+  <style>
+    path, line, polyline, polygon { vector-effect: non-scaling-stroke; }
+  </style>
+  <g class="t-villa">
+    <path pathLength="1" d="M294 0 L556 279"/>
+    <path pathLength="1" d="M0 117 L462 366"/>
+    <path pathLength="1" d="M452 302 L556 376"/>
+    <path pathLength="1" d="M0 122 L147 201"/>
+    <path pathLength="1" d="M158 204 L159 631"/>
+    <path pathLength="1" d="M164 207 L165 630"/>
+    <path pathLength="1" d="M345 311 L345 617"/>
+    <path pathLength="1" d="M357 306 L358 616"/>
+    <path pathLength="1" d="M462 366 L463 607"/>
+    <path pathLength="1" d="M8 419 L7 626"/>
+    <path pathLength="1" d="M0 645 L558 603"/>
+    <path pathLength="1" d="M0 773 L558 641"/>
+    <path pathLength="1" d="M558 603 L558 641"/>
+    <path pathLength="1" d="M262 686 L436 653 L470 654 L320 686 Z"/>
+    <path pathLength="1" d="M320 686 L320 724 L470 690 L470 654"/>
+    <path pathLength="1" d="M262 686 L262 727 L320 724"/>
+  </g>
+  <g class="t-wall">
+    <path pathLength="1" d="M464 404 L1277 397 L1278 590"/>
+    <path pathLength="1" d="M464 604 L558 601"/>
+    <path pathLength="1" d="M960 637 L1004 636"/>
+    <path pathLength="1" d="M1140 640 L1286 637"/>
+    <path pathLength="1" d="M1345 636 L1406 634"/>
+    <path pathLength="1" d="M1440 606 L1545 607"/>
+    <path pathLength="1" d="M1434 641 L1478 646"/>
+    <path pathLength="1" d="M1520 652 L1573 657"/>
+  </g>
+  <g class="t-canopy">
+    <path pathLength="1" d="M516 312 L976 316 L966 330 L524 328 Z"/>
+    <path pathLength="1" d="M532 320 L963 323"/>
+    <path pathLength="1" d="M588 357 L926 358"/>
+    <path pathLength="1" d="M596 385 L936 386"/>
+    <path pathLength="1" d="M609 392 L932 393"/>
+    <path pathLength="1" d="M644 403 L910 404"/>
+    <path pathLength="1" d="M558 358 L560 668 M572 358 L574 668"/>
+    <path pathLength="1" d="M615 402 L617 641 M626 402 L628 641"/>
+    <path pathLength="1" d="M940 360 L942 668 M955 360 L956 668"/>
+    <path pathLength="1" d="M919 395 L921 646 M924 395 L925 646"/>
+  </g>
+  <g class="t-platform" stroke="#EA0001">
+    <path pathLength="1" d="M538 682 L982 678 L930 645 L604 646 Z"/>
+  </g>
+</svg>

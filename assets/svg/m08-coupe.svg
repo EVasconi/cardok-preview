@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" fill="none" stroke="#000" stroke-width="1" role="img" aria-label="Coupe de principe : bâtiment de deux niveaux avec élévateur de véhicule">
+  <!-- M08 « La coupe » — hand-authored principle section (no architectural detail of the real building).
+       Scale ≈ 53 px/m. Level 0 floor y=600, level +1 floor y=360. Platform deck top: 600 (flush, level 0) -> 340 (level +1), travel 260 px. -->
+  <style>path,line,rect{vector-effect:non-scaling-stroke}</style>
+  <g class="c-site">
+    <path pathLength="1" d="M40 600 L1160 600"/>
+    <path pathLength="1" d="M40 612 L1160 612" stroke-dasharray="2 6" stroke="#9a9a9a"/>
+  </g>
+  <g class="c-building">
+    <path pathLength="1" d="M160 600 L160 100 L1040 100 L1040 600"/>
+    <path pathLength="1" d="M160 120 L1040 120"/>
+    <path pathLength="1" d="M160 340 L520 340 L520 360 L160 360"/>
+    <path pathLength="1" d="M800 340 L1040 340 M800 360 L1040 360 M800 340 L800 360"/>
+    <path pathLength="1" d="M180 100 L180 600 M1020 100 L1020 600"/>
+  </g>
+  <g class="c-shaft" stroke="#6f6f6f">
+    <path pathLength="1" d="M520 360 L520 640 L800 640 L800 360"/>
+    <path pathLength="1" d="M530 120 L530 600 M790 120 L790 600" stroke-dasharray="4 5"/>
+  </g>
+  <g class="c-platform">
+    <g class="c-lift">
+      <rect x="524" y="600" width="272" height="12" pathLength="1" stroke="#EA0001"/>
+      <g transform="translate(535 600)"><path pathLength="1" d="M0 -14 L2 -30 Q6 -40 26 -42 L70 -46 Q98 -70 130 -74 L168 -74 Q196 -70 216 -50 L238 -45 Q250 -42 250 -30 L250 -14 L228 -14 A20 20 0 0 0 188 -14 L64 -14 A20 20 0 0 0 24 -14 Z"/><path pathLength="1" d="M44 -14 m-17 0 a17 17 0 1 0 34 0 a17 17 0 1 0 -34 0 M208 -14 m-17 0 a17 17 0 1 0 34 0 a17 17 0 1 0 -34 0"/><path pathLength="1" d="M84 -48 Q104 -66 130 -68 L150 -68 L150 -48 Z M158 -48 L158 -68 L166 -68 Q188 -64 204 -48 Z" stroke="#8a8a8a"/></g>
+    </g>
+  </g>
+  <g class="c-levels" stroke="#9a9a9a">
+    <path pathLength="1" d="M1060 600 L1100 600 M1060 360 L1100 360"/>
+    <path pathLength="1" d="M1080 600 L1080 360" stroke-dasharray="3 4"/>
+  </g>
+</svg>
